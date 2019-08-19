@@ -9,12 +9,13 @@
 }
 
 #main-nav ul,
-#main-nav .logo {
+#main-nav .logo,
+#main-nav h1 {
   justify-self: center !important;
 }
 
-#main-nav ul li a {
-  padding: 0.50rem !important;
+#main-nav .logo {
+  width: 40px;
 }
 
 #showcase .showcase-container {
