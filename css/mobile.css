@@ -26,6 +26,10 @@
   padding-bottom: 4rem;
 }
 
+#showcase .showcase-content p {
+  margin-bottom: 0rem;
+}
+
 #home-articles .articles-container {
   grid-template-columns: repeat(2, 1fr) !important;
 }
