@@ -10,6 +10,7 @@
   --sports-color: #f99500;
   --ent-color: #a66bbe;
   --tech-color: #009cff;
+  --cars-color: #04db33;
 }
 
 * {
@@ -68,6 +69,7 @@ h1, h2, h3, h4, h5, h6 {
 .category-sports { background: var(--sports-color) }
 .category-ent { background: var(--ent-color) }
 .category-tech { background: var(--tech-color) }
+.category-cars { background: var(--cars-color) }
 
 .btn {
   display: inline-block;
