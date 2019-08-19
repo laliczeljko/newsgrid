@@ -23,7 +23,8 @@
 }
 
 #showcase .showcase-content {
-  padding-bottom: 4rem;
+  position: relative;
+  bottom: 3rem;
 }
 
 #showcase .showcase-content p {
