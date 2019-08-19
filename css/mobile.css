@@ -17,6 +17,10 @@
   padding: 0.50rem !important;
 }
 
+#showcase .showcase-container {
+  height: 75vh;
+}
+
 #home-articles .articles-container {
   grid-template-columns: repeat(2, 1fr) !important;
 }
