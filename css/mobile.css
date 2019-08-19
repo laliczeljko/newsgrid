@@ -25,6 +25,8 @@
 #showcase .showcase-content {
   position: relative;
   bottom: 3rem;
+  margin: 0;
+  padding: 0;
 }
 
 #showcase .showcase-content p {
