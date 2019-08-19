@@ -18,12 +18,12 @@
 }
 
 #showcase .showcase-container {
-  height: 50vh;
+  height: 70vh;
   grid-template-columns: 1fr !important;
 }
 
 #showcase .showcase-content {
-  padding-bottom: 3rem;
+  padding-bottom: 4rem;
 }
 
 #home-articles .articles-container {
