@@ -172,13 +172,21 @@ h1, h2, h3, h4, h5, h6 {
 
 #main-nav .container {
   display: grid;
-  grid-template-columns: 6fr 3fr 2fr;
+  grid-template-columns: 0.9fr 0.9fr 6fr 1fr;
   padding: 1rem;
   align-items: center;
 }
 
 #main-nav .logo {
-  width: 180px;
+  width: 90px;
+}
+
+#main-nav h1 {
+  justify-self: flex-start;
+  display: flex;
+  position: relative;
+  top: 0.5rem;
+  font-size: 2rem;
 }
 
 #main-nav ul {
