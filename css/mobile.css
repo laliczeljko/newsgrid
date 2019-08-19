@@ -22,6 +22,10 @@
   grid-template-columns: 1fr !important;
 }
 
+#showcase .showcase-content {
+  padding-bottom: 3rem;
+}
+
 #home-articles .articles-container {
   grid-template-columns: repeat(2, 1fr) !important;
 }
