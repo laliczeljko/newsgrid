@@ -18,13 +18,14 @@
 }
 
 #showcase .showcase-container {
-  height: 70vh;
+  height: 50vh;
   grid-template-columns: 1fr !important;
 }
 
 #showcase .showcase-content {
   position: relative;
-  bottom: 3rem;
+  bottom: 2rem;
+  top: 0;
   margin: 0;
   padding: 0;
 }
