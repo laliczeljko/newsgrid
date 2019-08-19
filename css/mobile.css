@@ -19,6 +19,7 @@
 
 #showcase .showcase-container {
   height: 75vh;
+  grid-template-columns: 1fr !important;
 }
 
 #home-articles .articles-container {
